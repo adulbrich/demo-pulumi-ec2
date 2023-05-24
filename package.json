@@ -1,0 +1,11 @@
+{
+    "name": "pulumi-ec2-demo",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "typescript": "^4.0.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "@pulumi/aws": "5.18.0"
+    }
+}
